@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="48%" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
+  <img width="28%" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 </p>
 <p align="center"><b>✨Welcome to Dvir Toledano Github✨</b></p>
 
