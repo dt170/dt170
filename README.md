@@ -1,7 +1,14 @@
 <p align="center">
   <img width="28%" src="https://media.giphy.com/media/FPbnShq1h1IS5FQyPD/giphy.gif" />
 </p>
-<p align="center"><b>✨Welcome to Dvir Toledano Github✨</b></p>
+<p align="center"><b>✨Welcome to Dvir Toledano Github✨</b>
+
+</p>
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=dt170"><img src="https://komarev.com/ghpvc/?username=dt170" alt="Profile views"></a>
+ </p>
+
+
 
 - 🔭 I’m currently working on Flutter application.
 - 🌱 I’m currently third year B.Sc. Student.
