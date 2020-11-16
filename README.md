@@ -11,7 +11,7 @@
 
 
 - 🔭 I’m currently working on Flutter application and participate in The Sheba Human Experience Challenge hackathon.
-- 🌱 I’m currently third year B.Sc. Student looking for Software Developer position.
+- 🌱 I’m currently third year B.Sc.
 - :information_source: About me I'm always eager to learn new technology, love coding, solve complex problems and collaberate with others.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dvir-toledano/)
 
