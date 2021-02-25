@@ -19,6 +19,4 @@
 
 Fill free to contribute or add more repos below
 - ***First good issue*** [Github-ToolBox](https://github.com/dt170/GitHub-ToolBox)
-- ***First good issue*** [remote-jobs](https://github.com/remoteintech/remote-jobs) 
-- ***First good issue*** [HacktoberfestPR2020](https://github.com/aryasoni98/HacktoberfestPR2020)
 
