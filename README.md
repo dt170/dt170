@@ -14,7 +14,7 @@
 - 🌱 I’m currently third year B.Sc. Student.
 - :information_source: About me I'm always eager to learn new technology, love coding, solve complex problems and collaberate with others.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/dvir-toledano/)
-- 🏆 hackathons: The Sheba Human Experience Challenge hackathon, Hacktoberfest.
+- 🏆 Hackathons: The Sheba Human Experience Challenge hackathon, Hacktoberfest.
 <p align="center"><b>✨Happy Hacktoberfest✨</b></p>
 
 Fill free to contribute or add more repos below
